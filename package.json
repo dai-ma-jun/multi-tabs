@@ -1,7 +1,7 @@
 {
   "name": "multi-label",
   "version": "1.0.0",
-  "description": "An demo of a management platform for multiple tag types",
+  "description": "多标签页管理平台",
   "author": "优雅的攻城狮 <just.public@icloud.com>",
   "private": true,
   "scripts": {
