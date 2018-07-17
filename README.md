@@ -1,6 +1,6 @@
 # multi-label
 
-> An demo of a management platform for multiple tag types
+> 多标签页管理平台
 
 ## 文件结构
 
